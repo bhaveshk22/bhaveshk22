@@ -37,7 +37,7 @@ I'm a Full Stack Data Scientist
 <!-- ![Logo](https://github-readme-stats.vercel.app/api?username=bhaveshk22&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515) -->
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaveshk22&label=Profile%20views&color=blue&style=plastic" alt="bhaveshk22" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaveshk22&label=Profile%20views&color=blue&style=for-the-badge" alt="bhaveshk22" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhaveshk22" alt="bhaveshk22" /></a> </p> -->
 
