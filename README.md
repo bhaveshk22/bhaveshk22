@@ -37,14 +37,14 @@ I'm a Full Stack Data Scientist
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavesh-kabdwal-6ba30a25b)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaveshk22&label=Profile%20views&color=blue&style=for-the-badge" alt="bhaveshk22" /> </p>
-
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhaveshk22" alt="bhaveshk22" /></a> </p> -->
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaveshk22&show_icons=true&locale=en&layout=compact" alt="bhaveshk22" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhaveshk22&show_icons=true&locale=en" alt="bhaveshk22" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaveshk22&label=Profile%20views&color=blue&style=for-the-badge" alt="bhaveshk22" /> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhaveshk22&" alt="bhaveshk22" /></p>
 
