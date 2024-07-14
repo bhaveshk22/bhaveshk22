@@ -6,9 +6,6 @@
 I'm a Full Stack Data Scientist
 
 
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavesh-kabdwal-6ba30a25b)
-
 
 ## 🛠 Skills
 1. C, C++, Python
@@ -35,6 +32,9 @@ I'm a Full Stack Data Scientist
 💬 more details loading
 
 <!-- ![Logo](https://github-readme-stats.vercel.app/api?username=bhaveshk22&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515) -->
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavesh-kabdwal-6ba30a25b)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaveshk22&label=Profile%20views&color=blue&style=for-the-badge" alt="bhaveshk22" /> </p>
