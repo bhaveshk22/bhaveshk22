@@ -30,7 +30,9 @@
 <h3 align="left">Summary of My Journey</h3>
 👩‍💻 I'm currently a student
 
+
 🧠 Btech Computer Science
+
 
 💬 more details loading
 
