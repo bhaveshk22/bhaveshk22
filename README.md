@@ -9,7 +9,7 @@
 
 - 📫 Reach out to me [here](mailto:bhaveshk2210@gmail.com)
 
-- 📄 Know about my experiences [here](bit.ly/bhavesh-kabdwal-cv).
+- 📄 Know about my experiences [here](https://bit.ly/bhavesh-kabdwal-cv).
 
 <!-- - ⚡ Fun fact **** -->
 
