@@ -3,7 +3,7 @@
 <h3 align="center"></h3>
 
 
-- 🔭 I’m currently working on **React.js, Next.js, Express.js, MongoDB**
+- 🔭 I’m currently working on **FarmSight - Smart Agriculture Support System**
 
 - 🌱 I’m currently learning **TypeScript, Docker, Kubernetes**
 
