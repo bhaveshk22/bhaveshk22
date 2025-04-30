@@ -3,9 +3,9 @@
 <h3 align="center"></h3>
 
 
-- 🔭 I’m currently working on **NLP, LLMs, Computer Vision**
+- 🔭 I’m currently working on **React.js, Next.js, Express.js, MongoDB**
 
-- 🌱 I’m currently learning **Generative AI, RAG**
+- 🌱 I’m currently learning **TypeScript, Docker, Kubernetes**
 
 - 📫 Reach out to me [here](mailto:bhaveshk2210@gmail.com)
 
